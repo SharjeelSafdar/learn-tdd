@@ -10,7 +10,7 @@ scripts:
 deploy:
   provider: surge
   skip_cleanup: true
-  domain: 
+  domain: sweltering-zoo.surge.sh/
   project: ./build
 
 on:
